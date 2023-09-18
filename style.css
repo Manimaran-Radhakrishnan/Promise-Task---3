@@ -1,0 +1,19 @@
+body {
+  background-color: cornsilk;
+}
+h1 {
+  margin: 50px;
+  margin-left: 0;
+  margin-top: 0;
+  text-align: center;
+  background-color: azure;
+  padding: 50px;
+  width: 100%;
+}
+td {
+  text-align: center;
+  background-color: whitesmoke;
+}
+th {
+  text-align: center;
+}
